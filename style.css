@@ -1,0 +1,111 @@
+.navname {
+    margin-left: 10%;
+    color: green;
+    font-size: 15px;
+    padding: 5%;
+    background-color: lightblue;
+}
+
+.navabout {
+    margin-left: 500px;
+}
+
+.navcont {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.inputmessage {
+    height: 170px;
+    width: 200px;
+}
+
+#myimage {
+    margin-right: 45%;
+}
+
+.pad {
+    position: relative;
+    top: 30px;
+    width: 1000px;
+    left: 10%;
+}
+
+.row1 {
+    position: relative;
+    left: 10%;
+}
+
+.row2 {
+    position: relative;
+    left: 10%;
+}
+
+.row3 {
+    position: relative;
+    left: 10%;
+}
+
+.button {
+    position: relative;
+    left: 10%;
+    margin-top: 2%;
+}
+
+.rowimg1 {
+    position: relative;
+    top: 55px;
+}
+
+#img1 {
+    border: 1px solid black;
+}
+
+#img2 {
+    height: 250px;
+    border: 1px solid black;
+}
+
+#img5 {
+    left: 10%;
+    width: 250px;
+    border: 1px solid black;
+}
+
+#img3 {
+    border: 1px solid black;
+}
+
+#img4 {
+    border: 1px solid black;
+}
+
+#pic1 {
+    position: relative;
+    bottom: 250px;
+    left: 50px;
+}
+
+#pic2 {
+    position: relative;
+    bottom: 250px;
+    left: 10%;
+}
+
+#pic3 {
+    position: relative;
+    bottom: 250px;
+    left: 200px;
+}
+
+#pic4 {
+    position: relative;
+    bottom: 250px;
+    left: 50px;
+}
+
+#pic5 {
+    position: relative;
+    bottom: 250px;
+    left: 200px;
+}
